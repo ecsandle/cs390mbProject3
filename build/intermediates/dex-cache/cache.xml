@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/elisandler/AndroidStudioProjects/MyActivities/app/libs/commons-net-ftp-2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="50ab0797241117153a458ce33c1c3dd33a470218">
+        <dex dex="/Users/elisandler/AndroidStudioProjects/MyActivities/app/build/intermediates/pre-dexed/debug/commons-net-ftp-2.0-2e3006bd73d182af0d1ab22f34d01f2d785aabea.jar" />
+    </item>
+    <item
+        jar="/Users/elisandler/AndroidStudioProjects/MyActivities/app/libs/BioHarnessBT.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="254d7fdb4afb76cb9c0e7c69d9231cffcb37a717">
+        <dex dex="/Users/elisandler/AndroidStudioProjects/MyActivities/app/build/intermediates/pre-dexed/debug/BioHarnessBT-487c3d6064ca78298d8b158dfa26da887ee0288e.jar" />
+    </item>
+    <item
+        jar="/Users/elisandler/AndroidStudioProjects/MyActivities/app/libs/aware1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bafeee3f51fe76a046bde5b426b20b04c2fbc93d">
+        <dex dex="/Users/elisandler/AndroidStudioProjects/MyActivities/app/build/intermediates/pre-dexed/debug/aware1.0-6c76a92f2d7587c5dd7302b95421be6d7f9fcf8b.jar" />
+    </item>
+
+</items>
